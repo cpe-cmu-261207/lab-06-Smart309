@@ -16,4 +16,4 @@ npm run dev
 ให้นศ.ศึกษาวิธีการ build ได้ใน slide
 และสุดท้ายให้ deploy ใน [CMU Personal Webhosting](https://register-myweb.cmu.ac.th/)
 
-http://myweb.cmu.ac.th/pattharapon_takham
+https://codesandbox.io/s/nameless-waterfall-wp5gf6
